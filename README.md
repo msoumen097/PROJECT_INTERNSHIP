@@ -1,4 +1,4 @@
-📚 Generative Data Science Tutor cum Chatbot
+## 📚 Generative Data Science Tutor cum Chatbot
 An interactive chatbot designed to assist users with data science-related queries and provide informative tutorials. This project is part of an internship focused on developing a generative AI-powered educational assistant.
 
 🚀 Features
